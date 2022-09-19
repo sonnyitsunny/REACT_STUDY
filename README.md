@@ -1,2 +1,0 @@
-# REACT_STUDY
-dd
